@@ -1,0 +1,208 @@
+{
+    "sabiduria":[   
+    {                                       
+        "indicador": "saludo",
+        "entradas": [
+            "Hola",
+            "Buen dia",
+            "Buenas tardes",
+            "Buenas noches"
+        ],
+        "respuestas": [
+            "Hola :)",
+            "Buen dia <3",
+            "Buenas tardes <3",
+            "Buenas noches <3"
+
+        ]
+     },
+     {
+        "indicador": "queJuli",
+        "entradas": [
+            "¿que es Juli?",
+            "¿Como es Juli?",
+            "juli"
+        ],
+        "respuestas": [
+            "Se encuentra junto al lago Titicaca, cuenta con un desembarcadero, es una de las ciudades que tiene el honor de ser parte de las primeras ciudades Americanas, en que se instalo la imprenta."
+
+        ]
+     },
+     {
+        "indicador": "queUros",
+        "entradas": [
+            "¿que es Uros?",
+            "¿Como es los Uros",
+            "Uros"
+        ],
+        "respuestas": [
+            "Las islas flotantes de los Uros son un conjunto de superficies artificiales habitables construidas de totora, una planta acuática que crece en la superficie del lago Titicaca. Las islas se yerguen sobre una porción de la superficie del lago Titicaca, se sobreponen a bloques de raíces de Totora sobre las cuales se tienden capas sucesivas de totora tejida o entrelazada en esteras. Sus habitantes, los uros, son un pueblo ancestral que actualmente se concentra en la meseta del Collao y en Perú en las islas flotantes ubicadas en la bahía de Puno."
+
+        ]
+     },
+     {
+        "indicador": "queChullpas",
+        "entradas": [
+            "¿que son las chullpas?",
+            "¿Como son las Chullpas?",
+            "chullas"
+        ],
+        "respuestas": [
+            "Chullpa o chullpar es una antigua torre funeraria de origen aymara y quechua, de base angular o redonda, construida originalmente para personas de alto estatus en la cultura aymara e incaica."
+
+        ]
+     },
+     {
+        "indicador": "queChucuito",
+        "entradas": [
+            "¿que es Chucuito?",
+            "¿Como es Chucuito?",
+            "chucuito"
+        ],
+        "respuestas": [
+            "Chucuito es una localidad peruana capital del distrito homónimo ubicado en la provincia de Puno en el departamento de Puno. Está situada a unos 18 km de la ciudad de Puno. Se sitúa a 3 875 m s. n. m..​ La población es de 7 913 habitantes."
+
+        ]
+     },
+     {
+        "indicador": "despedida",
+        "entradas": [
+            "chau",
+            "hasta luego",
+            "bye",
+            "hasta pronto",
+            "adios",
+            "hasta la siguiente"
+        ],
+        "respuestas": [
+            "Chau",
+            "Cuidate, hasta la siguiente",
+            "Chau cuidate",
+            "Hasta pronto",
+            "Hasta pronto <3"
+
+        ]
+     },
+     {
+        "indicador": "agradecimiento",
+        "entradas": [
+            "gracias",
+            "muchas gracias"
+        ],
+        "respuestas": [
+            "de nada",
+            "no es nada",
+            "un gusto ayudarte"
+
+        ]
+     },
+     {
+        "indicador": "duda",
+        "entradas": [
+            "¿a donde puedo ir?",
+            "¿recomiendame un lugar?",
+            "¿que lugar puedo visitar?",
+            "¿a donde voy?",
+            "lugar",
+            "¿que hago hoy?",
+            "otro",
+            "¿otro lugar?"
+        ],
+        "respuestas": [
+            "puedes visitar los Uros",
+            "puedes visitar la isla de Taquile",
+            "puedes visitar las Chullpas de Sillustani",
+            "puedes visitar las playas de Juli",
+            "puedes visitar Chucuito",
+            "puedes visitar Desaguadero"
+
+        ]
+     },
+     {
+        "indicador": "ActividadUros",
+        "entradas": [
+            "¿que puedo hacer en los uros?",
+            "¿que se puede hacer en los uros?",
+            "que hay en los uros?",
+            "que actividades puedo hacer en los uros?",
+            "¿porque los uros?",
+            "actividades en los uros"
+        ],
+        "respuestas": [
+            "Puedes conocer la historia de los Pobladores, comer comida tipica, saber de la historias de la isla flotante jugar con el bote",
+            "Puedes conocer la historia de la creacion de los Uros",
+            "Puedes comer la comida Tipica de los Uros",
+            "Puedes comprarte sourvenirs",
+            "Puedes manejar viajar en bote"
+
+        ]
+     },
+     {
+        "indicador": "ActividadJuli",
+        "entradas": [
+            "¿que puedo hacer en Juli?",
+            "¿que se puede hacer en las playas de Juli?",
+            "que hay en las playas de Juli?",
+            "que actividades puedo hacer las playas de Juli?",
+            "actividades en las playas de Juli"
+        ],
+        "respuestas": [
+            "Puedes nadar en la playas, hacer parrillada y jugar voley",
+            "Puedes pasear en cuatrimotos por el bosque de guaquina",
+            "Puedes bajar en parapente, jugar deportes y comer comida tipica",
+            "Puedes conocer las leyendas de las playas y el cerro san bartolome",
+            "Puedes acampar y disfrutar de diferentes paisajes",
+            "Puedes conocer los 4 templos y visitar el museo de San Juan"
+
+        ]
+     },
+     {
+        "indicador": "ActividadChullpas",
+        "entradas": [
+            "¿que puedo hacer en las Chullpas?",
+            "¿que se puede hacer en las Chullpas?",
+            "que hay en las chullpas?",
+            "que actividades puedo hacer las chullpas?",
+            "actividades en las chullpas"
+        ],
+        "respuestas": [
+            "Puedes nadar en la playas, hacecullpasoley",
+            "Puedes pasear en cuatrimkjncbosque de guaquina",
+            "Puedes bajar en parapente, jdfortes y comer comida tipica",
+            "Puedes acampar y disfrutar de diferfddsajes",
+            "Puedes conocer los 4 templos y visitccvan Juan"
+        ]
+     },
+     {
+        "indicador": "ActividadChucuito",
+        "entradas": [
+            "¿que puedo hacer en Chucuito?",
+            "¿que se puede hacer en Chucuito?",
+            "que hay en las chucuito?",
+            "que actividades puedo hacer en chucuito?",
+            "actividades en chucuito"
+        ],
+        "respuestas": [
+            "Puedes visitar a las truchas",
+            "Puedes visitar el mirador de los condores",
+            "Puedes ver el reloj solar en la plaza",
+            "Puedes montar caballo",
+            "Puedes visitar los templos"
+        ]
+     },
+     {
+        "indicador": "Actividaddesa",
+        "entradas": [
+            "¿que puedo hacer en desaguadero?",
+            "¿que se puede hacer en desaguadero?",
+            "que hay en desaguadero?",
+            "que actividades puedo hacer en desaguadero?",
+            "actividades en desaguadero"
+        ],
+        "respuestas": [
+            "Puedes nadar pasar la frontera"
+        ]
+     }
+     
+    ]
+}
